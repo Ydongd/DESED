@@ -1,0 +1,44 @@
+[
+    {
+        "id": "CNN_IP_20030404.1600.00-2-54",
+        "sentence": "The official Iraqi casualty figures remain the same this day, including more than 400 civilians killed, Iraqi authorities say.",
+        "tokens": [
+            "The",
+            "official",
+            "Iraqi",
+            "casualty",
+            "figures",
+            "remain",
+            "the",
+            "same",
+            "this",
+            "day",
+            ",",
+            "including",
+            "more",
+            "than",
+            "400",
+            "civilians",
+            "killed",
+            ",",
+            "Iraqi",
+            "authorities",
+            "say",
+            "."
+        ],
+        "events": [
+            {
+                "text": "casualty",
+                "start": 3,
+                "end": 4,
+                "event_type": "Die"
+            },
+            {
+                "text": "killed",
+                "start": 16,
+                "end": 17,
+                "event_type": "Die"
+            }
+        ]
+    }
+]

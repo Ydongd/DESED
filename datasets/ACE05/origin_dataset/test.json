@@ -1,0 +1,39 @@
+[
+    {
+        "id": "APW_ENG_20030322.0119-31",
+        "sentence": "Hoon said Saddam's regime was crumbling under the pressure of a huge air assault.",
+        "tokens": [
+            "Hoon",
+            "said",
+            "Saddam",
+            "'",
+            "s",
+            "regime",
+            "was",
+            "crumbling",
+            "under",
+            "the",
+            "pressure",
+            "of",
+            "a",
+            "huge",
+            "air",
+            "assault",
+            "."
+        ],
+        "events": [
+            {
+                "text": "crumbling",
+                "start": 7,
+                "end": 8,
+                "event_type": "End-Org"
+            },
+            {
+                "text": "assault",
+                "start": 15,
+                "end": 16,
+                "event_type": "Attack"
+            }
+        ]
+    }
+]

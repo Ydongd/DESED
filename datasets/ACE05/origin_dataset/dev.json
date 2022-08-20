@@ -1,0 +1,31 @@
+[
+    {
+        "id": "CNN_IP_20030405.1600.01-1-9",
+        "sentence": "The coalition air force will begin providing urban combat air support over the city.",
+        "tokens": [
+            "The",
+            "coalition",
+            "air",
+            "force",
+            "will",
+            "begin",
+            "providing",
+            "urban",
+            "combat",
+            "air",
+            "support",
+            "over",
+            "the",
+            "city",
+            "."
+        ],
+        "events": [
+            {
+                "text": "combat",
+                "start": 8,
+                "end": 9,
+                "event_type": "Attack"
+            }
+        ]
+    }
+]
